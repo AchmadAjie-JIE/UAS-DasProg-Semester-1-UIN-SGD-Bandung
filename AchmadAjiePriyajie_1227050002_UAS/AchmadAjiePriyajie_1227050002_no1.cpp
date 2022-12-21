@@ -33,7 +33,7 @@ int main()
             tuker[j][i] = array[i][j];
         }
     }
-    cout << "bentuk akhir : " << endl;
+    cout << "bentuk akhir setelah ditukar : " << endl;
     for(int i = 0; i < kolom_R; i++){
         for(int j = 0; j < baris_R; j++){
             cout << tuker[i][j] << " ";
