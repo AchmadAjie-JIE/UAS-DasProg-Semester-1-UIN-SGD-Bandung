@@ -106,4 +106,4 @@ int main()
   ```
 ## Output
 Output no 1 :
-<img src="https://github.com/AchmadAjie-JIE/UAS-DasProg-Semester-1-UIN-SGD-Bandung/blob/main/AchmadAjiePriyajie_1227050002_UAS/no1.png">
+
