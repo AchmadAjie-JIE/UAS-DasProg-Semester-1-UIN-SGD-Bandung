@@ -25,7 +25,7 @@ int main()
         }
         cout << endl;
     }
-    cout << "nilai akhir :" << endl;
+    cout << "nilai akhir (yang tidak habis dibagi 3,5 dan 7) :" << endl;
     for(int i = 0; i < baris ;i++){
             for(int j = 0; j < kolom ;j++){
                 if(array[i][j]%3 != 0 && array[i][j]%5 != 0 && array[i][j]%7 != 0){
